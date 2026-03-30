@@ -4,7 +4,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn." – Be
 
 ---
 
-### Congrats on completing the 2026 SOA Research Challenge!
+### Congrats on completing the [2026 SOA Research Challenge](https://www.soa.org/research/opportunities/2026-student-research-case-study-challenge/)!
+
 
 > Now it's time to build your own website to showcase your work.  
 > Creating a website using GitHub Pages is simple and a great way to present your project.
