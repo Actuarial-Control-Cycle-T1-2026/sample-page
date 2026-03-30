@@ -11,11 +11,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn." – Be
 
 This page is written in Markdown.
 
-- Click the [4001 link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.  
-- Click the [5100 link](https://classroom.github.com/a/uVytCqDv) to accept your group assignment.  
-
-#### Follow the [guide document](Doc1.pdf) to submit your work.
-
 ---
 
 > Be creative! You can embed or link your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), and [images](ACC.png) here.
